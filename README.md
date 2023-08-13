@@ -1,4 +1,4 @@
-# Sales_Data_Analysis
+# Sales_Data_Analysis_Python
 
 Introduction: Analyzing Sales Data
 
